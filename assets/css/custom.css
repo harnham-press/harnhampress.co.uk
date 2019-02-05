@@ -1,0 +1,16 @@
+#header .logo {
+  border-radius: 4px;
+/*  background-color: rgba(27, 31, 34, 0.85);*/
+  width: auto;
+  height: auto;
+  line-height: 0;
+  padding: 1.25rem;
+}
+
+#header .logo img {
+  max-width: 100%;
+}
+
+#bg:before {
+  background-image: linear-gradient(to top, rgba(19, 21, 25, 0.7), rgba(19, 21, 25, 0.7)), url("../../images/overlay.png");
+}
