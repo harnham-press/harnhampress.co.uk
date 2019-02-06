@@ -21,11 +21,11 @@
 
 #header .content {
   border-color: #76bd22;
-  border-top-width: 4px;
-  border-bottom-width: 4px;
+  border-top-width: 3px;
+  border-bottom-width: 3px;
 }
 
 h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
-  border-bottom: solid 4px #76bd22;
+  border-bottom: solid 3px #76bd22;
 }
 
