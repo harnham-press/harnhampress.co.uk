@@ -29,3 +29,6 @@ h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
   border-bottom: solid 3px #76bd22;
 }
 
+.image:before {
+  background: none;
+}
